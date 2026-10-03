@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of cc2562/gravatar.** Not for installation: use [Packagist](https://packagist.org/packages/cc2562/gravatar) or the [upstream repository](https://github.com/cc2562/gravatar).
 
-**0** versions archived · Latest: [`0.1`](https://github.com/flarchive/cc2562-gravatar/tree/archive/v0.1) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.1`](https://github.com/flarchive/cc2562-gravatar/tree/archive/v0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2024-11-20 | `^1.2.0` | [Browse](https://github.com/flarchive/cc2562-gravatar/tree/archive/v0.1) |
 
 Catalog entry: [packages/cc2562-gravatar.json](https://github.com/flarchive/archive-index/blob/main/packages/cc2562-gravatar.json)
 
